@@ -1,0 +1,17 @@
+.container{
+  max-width: 100%;
+  background-color:#fff;
+  color: black;
+}
+.box{
+  background-color: #eee;
+  text-align: left;
+  border: 2.5px solid blue;
+  padding:20px;
+  word-spacing: normal;  
+  margin:10px 15px;
+}
+.btn{
+  border-radius: 10%;
+  margin-bottom: 15px;
+}

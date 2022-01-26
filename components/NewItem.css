@@ -1,0 +1,13 @@
+.container{                
+    box-sizing: border-box;
+    text-align: center;
+    background-color: rgb(224, 203, 203);
+    border: 2.5px solid blue;
+    padding:20px;
+    margin:10px 15px;
+}
+/*container applies the color and styling for all */
+
+.btn{
+    margin-bottom: 15px;
+}
